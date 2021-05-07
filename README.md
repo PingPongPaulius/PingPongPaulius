@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PingPongPaulius
 - 👀 I’m interested in Artificial Intelligence and reinforcement learning
-- 🌱 I’m currently learning in University :D, 2nd year student
+- 🌱 I’m currently studying in University :D, 2nd year student
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
